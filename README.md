@@ -25,16 +25,16 @@ The project requires latest Python version and the following libraries installed
 The dataset used for this project can be accesssed from [here](https://www.kaggle.com/datasets/wchowdhu/bengali-digits).
 
 The dataset is structured into 10 folders, each folder contains images of Bengali digits for the corresponding number,
-0 --> ০
-1 --> ১
-2 --> ২
-3 --> ৩
-4 --> ৪
-5 --> ৫
-6 --> ৬
-7 --> ৭
-8 --> ৮
-9 --> ৯
+  0 --> ০
+  1 --> ১
+  2 --> ২
+  3 --> ৩
+  4 --> ৪
+  5 --> ৫
+  6 --> ৬
+  7 --> ৭
+  8 --> ৮
+  9 --> ৯
 
 
 ## Code
@@ -46,7 +46,7 @@ The provided Jupyter notebook contains code covering exploratory data analysis, 
 
 All codes were run on Kaggle kernel with a GPU.
 
-To open the .ipynb files in your browser and look at the output of the completed cells, use the following command in your terminal after changing the working directory to the project directory `fake-news-detection`:
+To open the .ipynb files in your browser and look at the output of the completed cells, use the following command in your terminal after changing the working directory to the project directory `bengali-handwritten-digit-classification`:
 ```
 jupyter notebook <file_name>.ipynb
 ```
