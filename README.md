@@ -24,17 +24,17 @@ The project requires latest Python version and the following libraries installed
 
 The dataset used for this project can be accesssed from [here](https://www.kaggle.com/datasets/wchowdhu/bengali-digits).
 
-The dataset is structured into 10 folders, each folder contains images of Bengali digits for the corresponding number,
-  0 --> ০
-  1 --> ১
-  2 --> ২
-  3 --> ৩
-  4 --> ৪
-  5 --> ৫
-  6 --> ৬
-  7 --> ৭
-  8 --> ৮
-  9 --> ৯
+The dataset is structured into 10 folders, each folder contains images of Bengali digits for the corresponding number, e.g. `0` folder contains scanned images of Bengali digit `০`.
+    0 --> ০
+    1 --> ১
+    2 --> ২
+    3 --> ৩
+    4 --> ৪
+    5 --> ৫
+    6 --> ৬
+    7 --> ৭
+    8 --> ৮
+    9 --> ৯
 
 
 ## Code
