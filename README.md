@@ -2,7 +2,7 @@
 
 The goal of this project is to implement a machine learning model which takes as input an image of a Bengali handwritten digit and outputs the corresponding digit number from the 10 output classes.
 
-It also includes a hands-on interactive [notebook](https://github.com/wchowdhu/bengali-handwritten-digit-classification/blob/main/augment-handwritten-digit-images.ipynb) to perform data augmentation to the original digit dataset by applying different imgage transformations.
+It also includes a hands-on interactive [notebook](https://github.com/wchowdhu/bengali-handwritten-digit-classification/blob/main/augment-handwritten-digit-images.ipynb) to increase the number of images in the original dataset through data augmentation by applying different transformations.
 
 ## Install
 
